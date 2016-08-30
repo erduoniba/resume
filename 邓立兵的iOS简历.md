@@ -6,7 +6,7 @@
 
 - 工作年限：4年
 
-- 技术博客：[csdn](http://blog.csdn.net/u012390519)
+- 技术博客：[邓立兵的技术博客](http://blog.csdn.net/u012390519)
 
 - Github：[github.com/erduoniba](https://github.com/erduoniba)
 
@@ -33,6 +33,8 @@
 ```
 
 **项目名:**   [**房多多—买房卖房首选交易平台**](https://appsto.re/cn/c6wqY.i)
+
+![](http://7xqhx8.com1.z0.glb.clouddn.com/%E6%88%BF%E5%A4%9A%E5%A4%9A.gif)
 
 **项目责任:** 
 
